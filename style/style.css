@@ -129,6 +129,7 @@ footer{
     margin-right: 1rem;
     font-size: .7rem;
     cursor: pointer;
+    text-align: end;
 }
 
 .img-frame{
