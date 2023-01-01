@@ -2,8 +2,8 @@
 blog();
 
 async function blog(){
-    // const api = 'https://sheetdb.io/api/v1/muaq64jkepqm2';
-    const api = './api.json';
+    const api = 'https://sheetdb.io/api/v1/muaq64jkepqm2';
+    // const api = './api.json';
     const response = await fetch(api);
 
     const data = await response.json()
@@ -39,7 +39,7 @@ async function blog(){
                     <div class="card-cta">
                         <button class="btn hover">CONTIUE READING</button>
                         <div class="tag">
-                            <p class="tag-name">GENERAL</p>
+                            <p class="tag-name">${data.tag}</p>
                         </div>
                     </div>
                 </div>
