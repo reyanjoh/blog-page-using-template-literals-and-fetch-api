@@ -1,0 +1,51 @@
+[
+    {
+       "title":"What is Lorem Ipsum?",
+       "date": "NOVEMBER 1, 2015",
+       "author":"Lorem Ipsum",
+       "cover":"./blog-test-imgs/pic01.jpg",
+       "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+       "title":"Why do we use it?",
+       "date": "NOVEMBER 1, 2015",
+       "author":"Lorem Lorem ",
+       "cover":"./blog-test-imgs/pic02.jpg",
+       "content":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+       "title":"Where can I get some?",
+       "date": "NOVEMBER 1, 2015",
+       "author":"yeeee yooooooo",
+       "cover":"./blog-test-imgs/pic03.jpg",
+       "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    },
+    {
+       "title":"",
+       "date": "NOVEMBER 1, 2015",
+       "author":"",
+       "cover":"./blog-test-imgs/pic04.jpg",
+       "content":""
+    },
+    {
+       "title":"",
+       "date": "",
+       "author":"",
+       "cover":"./blog-test-imgs/pic05.jpg",
+       "content":""
+    },
+    {
+       "title":"why this Bear looks so sad?",
+       "date": "NOVEMBER 1, 2015",
+       "author":"just some random guy",
+       "cover":"./blog-test-imgs/pic06.jpg",
+       "content":"A severely depressed polar bear in Argentina seems destined to stay that way after Argentinian authorities rejected the global petition to relocate him to a better environment in Canada. Addressed to Cristina Fernandez de Kirchner, the president of Argentina, it had received well over 619,000 signatures. Following the news, celebrities and public figures took to Twitter on Wednesday to offer their support for what some have dubbed the \u201cworld\u2019s saddest animal.\u201d"
+    },
+    {
+       "title":"",
+       "date": "NOVEMBER 1, 2015",
+       "author":"",
+       "cover":"./blog-test-imgs/pic07.jpg",
+       "content":""
+    }
+ ]
