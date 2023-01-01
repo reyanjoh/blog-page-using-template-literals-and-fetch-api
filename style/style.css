@@ -128,6 +128,7 @@ footer{
 .author-name{
     margin-right: 1rem;
     font-size: .7rem;
+    cursor: pointer;
 }
 
 .img-frame{
@@ -191,7 +192,8 @@ footer{
     cursor: pointer;
 }
 
-.card-cta > button:hover{
+.hover:hover{
+    transition: .1s;
     border-color: aquamarine;
     color: aquamarine;
 }

@@ -8,7 +8,7 @@ async function blog(){
 
     const data = await response.json()
 
-    console.log(data);
+    // console.log(data);
     
 
     document.querySelector('.right-content-space').innerHTML =`
@@ -22,7 +22,7 @@ async function blog(){
                     <div class="author padding">
                         <span class="date">${data.date}</span>
                         <div class="author-info">
-                            <span class="author-name">${data.author}</span>
+                            <span class="author-name hover">${data.author}</span>
                             <img class="profile" src="./blog-test-imgs/bear.jpg" alt="">
                         </div>
                     </div>
@@ -37,7 +37,7 @@ async function blog(){
     
     
                     <div class="card-cta">
-                        <button class="btn">CONTIUE READING</button>
+                        <button class="btn hover">CONTIUE READING</button>
                         <div class="tag">
                             <p class="tag-name">GENERAL</p>
                         </div>

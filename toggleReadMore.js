@@ -1,7 +1,13 @@
 
-document.querySelector('.btn').addEventListener('click', (e)=>{
+document.addEventListener('click', (e)=>{
     
-    document.querySelector('.content-p').classList.toggle('toggle');
-    console.log(e);
-
+    if(e.target.classList.contains('btn')){
+        e.target.parentElement.parentElement.children.item(1).classList.toggle('toggle');
+        if(e.target.innerText === 'CONTIUE READING'){
+            e.target.innerText = 'COLLAPSE';
+        }else{
+            e.target.innerText = 'CONTIUE READING';
+        }
+        // console.log(e.target);
+    }
 });
