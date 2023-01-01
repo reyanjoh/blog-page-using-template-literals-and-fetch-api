@@ -23,7 +23,7 @@ async function blog(){
                         <span class="date">${data.date}</span>
                         <div class="author-info">
                             <span class="author-name hover">${data.author}</span>
-                            <img class="profile" src="./blog-test-imgs/bear.jpg" alt="">
+                            <img class="profile" src="https://github.com/reyanjoh/template-literals-imgs/blob/main/blog-test-imgs/bear.jpg?raw=true" alt="">
                         </div>
                     </div>
                 </div>
