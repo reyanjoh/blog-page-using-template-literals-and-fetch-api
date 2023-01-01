@@ -1,1 +1,1 @@
-# blog-page-using-template-literals-and-fetch-rest-api
+# blog-page-using-template-literals-and-rest-api
