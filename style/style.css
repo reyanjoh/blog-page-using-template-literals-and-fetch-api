@@ -16,6 +16,11 @@
     
 }
 
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
 
 nav{
     width: 100vw;
@@ -69,8 +74,24 @@ footer{
 .left-content-space{
     height: 100vh;
     width: 25vw;
-    display: block;
-    background-color: antiquewhite;
+    /* display: block; */
+    /* background-color: antiquewhite; */
+}
+
+.coder{
+    width: 5rem;
+    clip-path: polygon(50% 3%, 90% 25%, 90% 75%, 51% 97%, 10% 75%, 10% 24%);
+}
+
+.project-name{
+    font-size: 3rem;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.project-discription{
+    margin-top: 4rem;
+    line-height: 2rem;
 }
 
 .content-margin{
@@ -78,8 +99,10 @@ footer{
 }
 
 .ad-card{
-    width: 20rem;
+    width: 100%;
     height: 100vh;
+    background-color: antiquewhite;
+    /* background-color: #5e5e5e; */
 }
 
 .card{
@@ -198,7 +221,24 @@ footer{
     border-color: aquamarine;
     color: aquamarine;
 }
+.fox-img{
+    /* position: relative; */
+    height: 1rem;
+}
 
+/* .fox-img::before {
+    background-image: url('https://github.com/reyanjoh/template-literals-imgs/blob/main/blog-test-imgs/logo.jpg?raw=true');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+} */
 
 
 

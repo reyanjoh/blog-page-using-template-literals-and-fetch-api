@@ -1,11 +1,11 @@
 document.querySelector('#nav').innerHTML = `
         <div class="section">
             <nav>
-                <a class= "logo" href="" rel="noopener noreferrer">CODED BY REYAN</a>
-                <a class= "tabs border" href="" rel="noopener noreferrer">WORK</a>
-                <a class= "tabs border" href="" rel="noopener noreferrer">BLOGS</a>
-                <a class= "tabs border" href="./about/" rel="noopener noreferrer">ABOUT</a>
-                <a class= "tabs" href="./contact/" rel="noopener noreferrer">CONTACT</a>
+                <a class= "logo hover" href="" rel="noopener noreferrer">CODED BY REYAN</a>
+                <a class= "tabs hover border" href="" rel="noopener noreferrer">WORK</a>
+                <a class= "tabs hover border" href="" rel="noopener noreferrer">BLOGS</a>
+                <a class= "tabs hover border" href="./about/" rel="noopener noreferrer">ABOUT</a>
+                <a class= "tabs hover" href="./contact/" rel="noopener noreferrer">CONTACT</a>
             </nav>
         </div>
 `;
